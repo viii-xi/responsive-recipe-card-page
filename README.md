@@ -56,4 +56,4 @@ All images used in the project (e.g., for dishes) are stored in the `images/` di
 📧 Email: [k.akshita2005@gmail.com](mailto:k.akshita2005@gmail.com)
 💻 GitHub: [viii-xi](https://github.com/viii-xi)
 
-This project is open-source and free to use. Contributions and suggestions are always welcome!![Uploading image.png…]()
+This project is open-source and free to use. Contributions and suggestions are always welcome!!
